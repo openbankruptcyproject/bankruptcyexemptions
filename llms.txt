@@ -1,0 +1,19 @@
+# bankruptcyexemptions.com
+
+> Complete guide to bankruptcy exemptions under 11 U.S.C. Section 522. Learn what property you can keep in Chapter 7 and Chapter 13, federal vs state exemptions, and opt-out states.
+
+## About
+
+bankruptcyexemptions.com provides a comprehensive guide to bankruptcy exemptions under 11 U.S.C. Section 522, the laws that determine what property a debtor can protect in bankruptcy. The site covers the federal exemption scheme, state exemption systems, opt-out states, homestead exemptions, vehicle exemptions, wildcard exemptions, and strategies for maximizing exemptions in both Chapter 7 and Chapter 13 cases.
+
+## Key Pages
+
+- [Home](https://bankruptcyexemptions.com/): Complete guide to bankruptcy exemptions -- federal vs. state, opt-out rules, homestead, vehicle, wildcard, and maximization strategies
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "bankruptcyexemptions.com, Open Bankruptcy Project (2026)."
